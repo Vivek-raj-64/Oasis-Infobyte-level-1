@@ -1,0 +1,28 @@
+.container{
+flex-direction: column;
+}
+
+.photo{
+    padding: 20px;
+}
+
+.photo img{
+    height: 250px;
+    width: 256px;
+}
+
+.developer {
+    font-size: 2.6em;
+}
+
+.developerp{
+    font-size: 2.2em;
+}
+
+.developerpa {
+    font-size: 1.8em;
+}
+
+.me{
+    margin: 20px 8px;
+}
