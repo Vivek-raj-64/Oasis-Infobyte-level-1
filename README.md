@@ -1,4 +1,4 @@
-# Oasis-Infobyte-level-1
+# 𝒐𝒊𝒃𝒔𝒊𝒑_task1
 
 I have uploaded the tasks assigned to me during my Web Development internship with Oasis Infobyte. I have choses to do the tasks of level 1 which include:
 
